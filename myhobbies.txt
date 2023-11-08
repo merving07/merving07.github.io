@@ -1,0 +1,77 @@
+<!Doctype html>
+<html>
+<head>
+	<title> My Hobbies </title>
+</head>
+
+<body>
+	<h1> This is my Second Page -- My Hobbies </h1>
+		<h2> Hobbies </h2>
+		<p> Things which I like to do in my free time </p>
+		
+	<br>
+		<table>			<!-- Defines a HTML table -->
+			<thead>		<!-- is used to group the body content in an HTML table
+				<tr>
+					<th> S# </th>
+					<th> Hobby </th>
+					<th> Number of Years </th>
+					<th> Frequency </th>
+				</tr>
+			/thead>
+			<tbody>
+				<tr>
+					<td>1.				</td>
+					<td> Travel			</td>
+					<td> 25				</td>
+					<td> 2-3 times a year </td>
+				</tr>
+			<!-- Use line 23-28 in order to add 6 more hobbies -->
+				<tr>
+					<td>2.				</td>
+					<td> playing footbal</td>
+					<td> 1		</td>
+					<td> only when weather is nice </td>
+				</tr>
+				<tr>
+					<td>3.				</td>
+					<td> play video games</td>
+					<td> 12				</td>
+					<td> Almost everyday </td>
+				</tr>
+				<tr>
+					<td>4.				</td>
+					<td> be with my dog	</td>
+					<td> 4			</td>
+					<td> everyday </td>
+				</tr>
+				<tr>
+					<td>5.				</td>
+					<td> sleep			</td>
+					<td> 17				</td>
+					<td> everyday </td>
+				</tr>
+				<tr>
+					<td>6.				</td>
+					<td> basketball			</td>
+					<td> 2				</td>
+					<td> 2-3 time a month </td>
+				</tr><tr>
+					<td>7.				</td>
+					<td> go out with my friends</td>
+					<td> 3					</td>
+					<td> 2-4 times a month </td>
+				</tr>
+				
+			
+			<tr>
+					<td>1.				</td>
+					<td> Travel			</td>
+					<td> 25				</td>
+					<td> 2-3 times a year </td>
+				</tr>
+			</tbody>
+		</table>
+
+</body>
+</html		
